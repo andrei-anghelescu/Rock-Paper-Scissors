@@ -45,6 +45,3 @@ the computer.
 ## Language
 
 - Python
-You win!
-
-Score: You 1 - Computer 0
